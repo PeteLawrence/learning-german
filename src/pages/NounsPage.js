@@ -4,11 +4,6 @@ import Table from 'react-bootstrap/Table';
 
 class NounsPage extends React.Component {
 
-  constructor(props) {
-    super(props);
-  }
-
-
   getDefinitiveArticle(gender) {
     switch(gender) {
       case 'm':
@@ -17,6 +12,8 @@ class NounsPage extends React.Component {
         return 'die';
       case 'n':
         return 'das';
+      default:
+        return;
     }
   }
 
@@ -28,6 +25,7 @@ class NounsPage extends React.Component {
         return '#FFC0CB';
       case 'n':
         return '#66CDAA';
+      default: return;
     }
   }
 

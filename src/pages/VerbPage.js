@@ -4,14 +4,6 @@ import Table from 'react-bootstrap/Table';
 
 class NounsPage extends React.Component {
 
-  constructor(props) {
-    super(props);
-  }
-
-
-  
-
-
   /**
    * Renders the Marker component
    * @return {[type]} [description]

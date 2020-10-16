@@ -4,10 +4,6 @@ import Table from 'react-bootstrap/Table';
 
 class PersonalPronounsPage extends React.Component {
 
-  constructor(props) {
-    super(props);
-  }
-
   /**
    * Renders the ArticlesPage component
    * @return {[type]} [description]

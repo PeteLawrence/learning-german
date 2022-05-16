@@ -10,6 +10,7 @@ import ArticlesPage from './pages/ArticlesPage';
 import GamePage from './pages/GamePage';
 import GreetingsPage from './pages/GreetingsPage';
 import NounsPage from './pages/NounsPage';
+import PrepositionsPage from './pages/PrepositionsPage';
 import PronounsPage from './pages/PronounsPage';
 import VerbPage from './pages/VerbPage';
 
@@ -93,6 +94,10 @@ function App() {
 
           <Route path="/greetings">
             <GreetingsPage/>
+          </Route>
+
+          <Route path="/prepositions">
+            <PrepositionsPage/>
           </Route>
 
           <Route path="/game">

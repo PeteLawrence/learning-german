@@ -4,7 +4,7 @@ import Alert from 'react-bootstrap/Alert';
 import Button from 'react-bootstrap/Button';
 import ButtonGroup from 'react-bootstrap/ButtonGroup';
 
-let dictionary = require('../data/german.js').default;
+import dictionary from '../data/german.js';
 
 class GamePage extends React.Component {
   

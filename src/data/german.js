@@ -86,6 +86,68 @@ export default {
             category: 'animal',
             type: 'noun'
         },
+        {
+            en: 'next to',
+            de: { s: 'neben' },
+            type: 'preposition'
+        }, {
+            en: 'behind',
+            de: { s: 'hinter' },
+            type: 'preposition'
+        }, {
+            en: 'before',
+            de: { s: 'vor' },
+            type: 'preposition'
+        }, {
+            en: 'once in a while',
+            de: { s: 'ab und zu' },
+            type: 'preposition'
+        }, {
+            en: 'while / during',
+            de: { s: 'während' },
+            type: 'preposition'
+        }, {
+            en: 'after',
+            de: { s: 'nach' },
+            type: 'preposition'
+        }, {
+            en: 'at the / in the / along the / on the',
+            de: { s: 'am' },
+            type: 'preposition'
+        }, {
+            en: 'on / in / about / of',
+            de: { s: 'an' },
+            type: 'preposition'
+        }, {
+            en: 'around the',
+            de: { s: 'ums' },
+            type: 'preposition'
+        }, {
+            en: 'including',
+            de: { s: 'einschleißligh' },
+            type: 'preposition'
+        }, {
+            en: 'apart from',
+            de: { s: 'außer' },
+            type: 'preposition'
+        }, {
+            en: 'because of',
+            de: { s: 'wegen' },
+            type: 'preposition'
+        }, {
+            en: 'except / apart from',
+            de: { s: 'außer' },
+            type: 'preposition'
+        }, {
+            en: 'among',
+            de: { s: 'unter' },
+            type: 'preposition'
+        }, {
+            en: 'lay',
+            de: { s: 'legen' },
+            type: 'preposition'
+        }
+        
     ]
 }
 
